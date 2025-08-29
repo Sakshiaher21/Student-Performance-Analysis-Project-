@@ -88,7 +88,7 @@ From the data analysis, we found:
 ### 3️⃣ Lunch Type Impact
 - Students with a **standard lunch** consistently scored higher than those with **free/reduced lunch**.  
 
-  ![Lunch Impact](PNG/impact_of_lunch.png)  
+   ![Lunch Impact](PerformanceAnalysisProject/PNG/impact_of_lunch.png)  
 ---
 
 ### 5️⃣ Subject-wise Averages
@@ -115,6 +115,7 @@ From the data analysis, we found:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshiaher21/)
 
 ✨ *If you like this project, don’t forget to ⭐ the repo!*
+
 
 
 
