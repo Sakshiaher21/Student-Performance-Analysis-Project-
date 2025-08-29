@@ -73,7 +73,7 @@ From the data analysis, we found:
 ### 1️⃣ Parent Education Impact
 - Students with parents having **Master’s or Bachelor’s degrees** tend to score better in **Math, Reading, and Writing**.  
 
-![Parent Education Impact](Performance Analysis Project/images/impact_of_parentl_edu.png)  
+![Parent Education Impact](Performance Analysis Project/png/impact_of_parentl_edu.png)  
 
 ---
 
@@ -81,27 +81,27 @@ From the data analysis, we found:
 - **Female students** perform better in **Reading and Writing**,  
 - **Male students** score slightly higher in **Math**.  
 
-![Gender Performance]( Performance Analysis Project/images/avg_score_by_gender.png)  
+![Gender Performance]( Performance Analysis Project/png/avg_score_by_gender.png)  
 
 ---
 
 ### 3️⃣ Lunch Type Impact
 - Students with a **standard lunch** consistently scored higher than those with **free/reduced lunch**.  
 
-![Lunch Impact](Performance Analysis Project/images/impact_of_lunch.png)  
+![Lunch Impact](Performance Analysis Project/png/impact_of_lunch.png)  
 ---
 
 ### 5️⃣ Subject-wise Averages
 - Highlights that **English scores are highest**, while **Math scores are lowest** on average.  
 
-![Subject-wise Average](Performance Analysis Project/images/sunject_wise_avg.png)  
+![Subject-wise Average](Performance Analysis Project/png/sunject_wise_avg.png)  
 
 ---
 ### 6️⃣  Race/Ethnicity vs Performance
 - This chart shows how students from different **Race/Ethnicity groups (A–E)** performed.  
 - **Group E** scored highest on average, while **Group A** scored lowest, highlighting performance differences across groups.
 
-![Race/Ethnicity Performance](Performance Analysis Project/images/Score_by_race & ethnicity.png)
+![Race/Ethnicity Performance](Performance Analysis Project/png/Score_by_race & ethnicity.png)
 
 ---
 ## 👩‍💻 Author
@@ -115,4 +115,5 @@ From the data analysis, we found:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshiaher21/)
 
 ✨ *If you like this project, don’t forget to ⭐ the repo!*
+
 
