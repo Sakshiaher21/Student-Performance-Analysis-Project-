@@ -73,7 +73,7 @@ From the data analysis, we found:
 ### 1️⃣ Parent Education Impact
 - Students with parents having **Master’s or Bachelor’s degrees** tend to score better in **Math, Reading, and Writing**.  
 
-![Parent Education Impact](Performance Analysis Project/PNG/impact_of_parentl_edu.png)  
+![Parent Education Impact](Performance Analysis Project/ PNG/impact_of_parentl_edu.png)  
 
 ---
 
@@ -115,6 +115,7 @@ From the data analysis, we found:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshiaher21/)
 
 ✨ *If you like this project, don’t forget to ⭐ the repo!*
+
 
 
 
