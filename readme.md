@@ -88,20 +88,20 @@ From the data analysis, we found:
 ### 3️⃣ Lunch Type Impact
 - Students with a **standard lunch** consistently scored higher than those with **free/reduced lunch**.  
 
-  ![Lunch Impact](Images/impact_of_lunch.png)  
+  ![Lunch Impact](Images/Impact_of_lunch.png)  
 ---
 
 ### 5️⃣ Subject-wise Averages
 - Highlights that **English scores are highest**, while **Math scores are lowest** on average.  
 
-![Subject-wise Average](Images/subject_wise_avg.png)  
+![Subject-wise Average](Images/subject_wise_score.png)  
 
 ---
 ### 6️⃣  Race/Ethnicity vs Performance
 - This chart shows how students from different **Race/Ethnicity groups (A–E)** performed.  
 - **Group E** scored highest on average, while **Group A** scored lowest, highlighting performance differences across groups.
 
-![Race/Ethnicity Performance](Images/Score_by_race&ethnicity.png)
+![Race/Ethnicity Performance](Images/Score_by_Race&Ethnicity.png)
 
 ---
 ## 👩‍💻 Author
@@ -115,6 +115,7 @@ From the data analysis, we found:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshiaher21/)
 
 ✨ *If you like this project, don’t forget to ⭐ the repo!*
+
 
 
 
